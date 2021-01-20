@@ -1,0 +1,1 @@
+{"uuid":"3f38c63d-0aa4-4dab-a972-4f4a2b290705","name":"tests.MainTest","children":["5daa35f8-9c62-4418-9a8e-e94bb1dc1cb9"],"befores":[{"name":"classLevelSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1611094697106,"stop":1611094701381}],"afters":[],"links":[],"start":1611094697047,"stop":1611094703649}
